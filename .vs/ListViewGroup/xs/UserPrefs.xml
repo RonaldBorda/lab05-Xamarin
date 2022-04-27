@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F5DDE121-DB7D-4939-8587-3A4251A25E86}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListViewGroup.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewGroup/Views/CarsPage.xaml">
+    <Files>
+      <File FileName="ListViewGroup/ViewModels/CarsViewModel.xaml.cs" Line="67" Column="34" />
+      <File FileName="ListViewGroup/Views/CarsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ListViewGroup/ViewModels/CarsViewModel.xaml" Line="1" Column="1" />
+      <File FileName="ListViewGroup/Views/CarsPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListViewGroup" expanded="True">
+            <Node name="ListViewGroup" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="CarsViewModel.xaml" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="CarsPage.xaml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ListViewGroup.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListViewGroup.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A8C982A0-C452-4A02-9D8C-1E9B3B2063EB" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

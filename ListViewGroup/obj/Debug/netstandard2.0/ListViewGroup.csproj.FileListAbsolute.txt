@@ -1,0 +1,17 @@
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/bin/Debug/netstandard2.0/ListViewGroup.deps.json
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/bin/Debug/netstandard2.0/ListViewGroup.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/bin/Debug/netstandard2.0/ref/ListViewGroup.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/bin/Debug/netstandard2.0/ListViewGroup.pdb
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ListViewGroup.csproj.AssemblyReference.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ListViewGroup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ViewModels/CarsViewModel.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/Views/CarsPage.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ListViewGroup.AssemblyInfoInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ListViewGroup.AssemblyInfo.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ListViewGroup.csproj.CoreCompileInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ListViewGroup.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ref/ListViewGroup.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/ListViewGroup/ListViewGroup/obj/Debug/netstandard2.0/ListViewGroup.pdb
